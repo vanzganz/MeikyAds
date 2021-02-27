@@ -2,10 +2,10 @@
 ]=====> IKY ID <=====[ 
 ]=====> KASIH KREDIT GW IKY AJG<=====[
 ]=====> GANTI YG GW BOLEHIN <=====[
-JNG LUPA SUBREK IKY ADS/RAMLAN ID 
+JNG LUPA SUBREK IKY ADS
 SPECIAL THANKS TO
-RAMLAN ID
-BABY BOT
+
+Vhtear.com
 MHANK BAR BAR
 DLL 
 TQ TQ BANYAK BANYAK
@@ -35,8 +35,7 @@ const { color, bgcolor } = require('./lib/color')
 const { donasi } = require('./lib/donasi')
 const { fetchJson } = require('./lib/fetcher')
 const { recognize } = require('./lib/ocr')
-const { virtex } = require('./src/virtex')
-const { virtex2 } = require('./src/virtex2')
+
 const { animesaran } = require('./src/animesaran')
 const { asupan } = require('./src/asupan')
 const { animesaran2 } = require('./src/animesaran2')
