@@ -15,3 +15,19 @@ dll
 subscribe chanel iky ads
 
 jng di ganti ganti kalo gamau eror:v
+
+
+CARA INSTAL
+
+niat
+2hp yg 1 buat scan
+download termux
+pkg install git
+git clone https://github.com/rizkiadiasa/IKYBOTV6
+cd IKYBOTV6
+
+ls
+bash install.sh
+node index.js
+scan kelar
+subrek iky ads gan
