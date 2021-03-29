@@ -1,18 +1,16 @@
 #!/usr/bin/bash
 
-apt-get update
-apt-get upgrade
-pkg install wget
-pkg install ffmpeg
-pkg install nodejs
-pkg install npm
-pkg install tesseract
-npm i -g cwebp
-npm i -g ytdl
-npm i node-tesseract-ocr
+pkg update -y
+pkg upgrade -y
+pkg install wget -y
+pkg install ffmpeg -y
+pkg install nodejs -y
+pkg install npm -y
+pkg install tesseract -y
+apt install nmap -y
 npm i
-npm i got
 wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-ocr/tessdata/blob/master/ind.traineddata?raw=true"
 npm install
+npm audit fix
 
-echo "[*] SUKSES BRO SILAHKAN KETIK \"node index.js\" JANGAN LUPA SUBREK CHANNEL GW"
+echo "[*] SUKSES BRO SILAHKAN KETIK \"npm start\" JIKA ADA YANG ERROR SILAHKAN INSTALL MANUAL"
