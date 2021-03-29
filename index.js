@@ -121,17 +121,17 @@ const antifirtex = JSON.parse(fs.readFileSync('./database/group/antifirtex.json'
 const { iklan } = require('./lib/iklan')
 const { rules } = require('./lib/rules')
 const { tnc } = require('./lib/tnc')
-const { simple } = require('./database/menu/simple')
-const { gabut } = require('./database/menu/gabut')
-const { groupm } = require('./database/menu/group')
-const { download } = require('./database/menu/download')
+
+
+
+
 const { dompet } = require('./database/menu/dompet')
 
-const { random } = require('./database/menu/random')
-const { other } = require('./database/menu/other')
-const { owb } = require('./database/menu/owb')
-const { maker } = require('./database/menu/maker')
-const { sound } = require('./database/menu/sound')
+
+
+
+
+
 /*
 ]=====> FUNCTION <=====[
 */
