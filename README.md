@@ -117,19 +117,21 @@ Ket: Script ini gratis ye Jangan dijual_-
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
 
-* [`Donasi の ＭｅＩｋｙ あ`](https://saweria.co/ramlangans)
+* [`Donasi の ＭｅＩｋｙ あ`](https://saweria.co/IkyyAds)
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`Youtube Admin`](https://youtube.com/c/IkyyAds)
+* [`Youtube Iky`](https://youtube.com/c/IkyyAds)
 
-* [`Instagram Admin`](https://instagram.com/ikyy_ads)
+* [`Instagram Iky`](https://instagram.com/ikyy_ads)
 
-* [`WhatsApp Admin `](https://wa.me/+6283141727903)
+* [`WhatsApp Iky `](https://wa.me/+6283141727903)
 
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
 * [`DOA KAWAN & DOA EMAK`]
-
+* [`Abil pea`]
+* [`Ramlan kuntul`]
+*[`Mhank bar bar`]
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 
