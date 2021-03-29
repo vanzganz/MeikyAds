@@ -1,4 +1,8 @@
 /*
+//BAU BAU NYOLONG FITUR
+//ITSMEIKY AMA MEIKY BEDA YA GW IKY ADS
+//SEKALI LAGI GW MEIKY BUKAN ITSMEIKY 
+//FREE RECODE ASAL KASIH NAMA GW DI TQTQ
 ]=====> あＭｅＩｋｙツ <=====[ 
 ]=====> KASIH KREDIT GW IKY AJG<=====[
 ]=====> GANTI YG GW BOLEHIN <=====[
@@ -59,7 +63,7 @@ const speed = require('performance-now')
 
 publik = false
 prefix = '.'
-fake = '*𝗧𝗘𝗟𝗔𝗛 𝗗𝗜 𝗩𝗘𝗥𝗜𝗙𝗜𝗞𝗔𝗦𝗜✅*'
+fake = '*の ＭｅＩｋｙ あ✅*'//GANTI NAMA KAMU BEP
 numbernye = '0'
 targetprivate = '62895414817057'
 ghoibsu = 'tes'
@@ -69,10 +73,10 @@ const vcard = 'BEGIN:VCARD\n'
 // KASIH WM GUE
             + 'VERSION:3.0\n' 
 // あＭｅＩｋｙツ
-            + 'FN:あＭｅＩｋｙツ\n' 
+            + 'FN:あＭｅＩｋｙツ\n' //GANTI NAMA KAMU
 // JAN NGEYEL AJG
-            + 'ORG:あＭｅＩｋｙツ;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=6283141727903:+62  831-4172-7903\n' 
+            + 'ORG:あＭｅＩｋｙツ;\n'//INI BIARIN AJA PLIS
+            + 'TEL;type=CELL;type=VOICE;waid=6283141727903:+62  831-4172-7903\n' //GANTI NO LU BEP
             + 'END:VCARD' 
 prefix = '.'
 blocked = []   
@@ -80,23 +84,26 @@ limitawal = 9999999
 memberlimit = 1
 
 /*
-]=====> SETTING DI SINI KEBAWAH BIARIN AJG <=====[
+]=====> SETTING DI SINI BEP GANTI YG LU MAU<=====[
 */
-const ownerNumber = ["6283141727903@s.whatsapp.net","6283141727903@s.whatsapp.net"]
+const ownerNumber = ["6283141727903@s.whatsapp.net","6283141727903@s.whatsapp.net"] 
 const botName = 'あＭｅＩｋｙツ'
 const ownerName = 'あＭｅＩｋｙツ'
-const BarBarKey = 'VCcC4507mnppeqriuGeDe' // APIKEY BELI DI IKY
-const VhtearKey = '1BlnApiIkyPake' // beli di 083141727903
-const XteamKey = 'AbilGanss' // APIKEY XTEAM BELI SENDIRI:V
+const BarBarKey = 'beli bos' // APIKEY BELI DI IKY
+const VhtearKey = 'masa bos geratisan' // beli di 083141727903
+const XteamKey = 'gratis mulu ah' // APIKEY XTEAM BELI SENDIRI:V
 const TobzKey = 'BotWeA'
-const ApiDevolover = 'PunyaIkyAds'
+const ApiDevolover = 'hadehh'
 const TechApi = '5BNIDH-1T0kPj-gWqG6q-sHtuHA-AWBSgZ'
 const zeksapi = 'apivinz'
 const shizukaapi = 'itsmeiky633'
 const apivhtear = 'niehbelidiikyads' // YANG DI YOUTUBE
+
+//lolhuman api seting di setial fitur
 /*
 ]=====> SC BY あＭｅＩｋｙツ <=====[
 */
+//ME IKY AMA ITSMEIKY BEDA KALO GW IKYY ADS
 //SUBREK JUGA IKY ADS:V
 //WA GW 083141727903
 /*       
